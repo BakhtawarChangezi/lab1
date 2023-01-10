@@ -1,7 +1,7 @@
 package javalab12pro;
 import java.util.Scanner;
 
-public class q1 {
+public class v2 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		int[] array = getArray();
