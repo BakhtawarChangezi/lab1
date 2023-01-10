@@ -17,6 +17,7 @@ public class q1 {
 			System.out.println("Array Out of Bound.");
 		}
 	}
+		System.out.println("repository");
 	
 	public static int[] getArray() {
 		int[] array = new int[10];
